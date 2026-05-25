@@ -4,7 +4,7 @@
 
 <h3><b style="font-size: 28px;">Hi, I'm Eda Hazal 👋</b></h3>
 
-<h4><b>Product Designer &nbsp;•&nbsp; Co-Founder @ Appibara &nbsp;•&nbsp; Calm Tech Advocate</b></h4>
+<h4><b>Co-Founder @ Appibara &nbsp;•&nbsp; Product Designer &nbsp;•&nbsp; Calm Tech Advocate</b></h4>
 
 <p style="color: #6a737d;">
 <i>Crafting noise-free digital experiences. Bridging design, engineering, and calm.</i>
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Recraft-323330?style=for-the-badge" alt="Recraft" />
 
 <h4>💻 Tech Stack & DB</h4>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -27,6 +28,7 @@
 
 <h4>⚙️ Automation & Workflows</h4>
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 <h4>🧠 AI Models & Tools</h4>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
