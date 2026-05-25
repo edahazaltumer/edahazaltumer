@@ -55,7 +55,7 @@
 <td width="33%" align="center" valign="top" style="border: none; border-style: hidden; border-color: transparent;">
 <a href="https://kokono.me"><img src="https://appibara.com/_next/image?url=%2Fkokono_logo_v2.png&w=128&q=75" alt="KokoNo" height="80" /></a>
 <br><br><b>KokoNo</b><br>
-<sub style="color: #6a737d;">Push Notification Manager</sub>
+<sub style="color: #6a737d;">Push Notification Service</sub>
 </td>
 
 <td width="33%" align="center" valign="top" style="border: none; border-style: hidden; border-color: transparent;">
